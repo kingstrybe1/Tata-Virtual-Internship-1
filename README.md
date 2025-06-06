@@ -23,9 +23,9 @@ We would need to provide insights which they can use to create the expansion str
 
 We would need to make sure that the data we are using is of good quality and does not contain any bad data that would have an adverse impact on our analysis. Once the data is **cleaned**, the next step would be to create the visuals on **Tableau**.
 
-![Sales analysis](https://github.com/Dinesh-Karuppasamy/Tata-Virtual-Internship/assets/131190846/3f4fc45a-e7ea-4dcd-91a3-033faa512e9e)
+![Sales analysis]()
 
 
 **Task 4 - Communicating Insights and Analysis**
 
-Effectively communicating the findings and explain how it relates to each scenario in a business friendly language.
+Effectively communicating the findings and explain how it relates to each scettps://github.com/Dinesh-Karuppasamy/Tata-Virtual-Internship/assets/131190846/3f4fc45a-e7ea-4dcd-91a3-033faa512e9enario in a business friendly language.
